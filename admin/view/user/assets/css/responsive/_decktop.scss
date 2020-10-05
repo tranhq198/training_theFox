@@ -1,0 +1,25 @@
+@media(min-width:768px){
+    .search__item--fleft {
+      max-width: 340px;
+    }
+    .search__item--fright{
+      max-width: calc(100% - 360px);
+    }
+    .Administrator__item--fleft {
+      max-width: 150px;
+      width: 100%;
+    }
+    .Administrator__item--fright {
+      max-width: calc(95% - 150px);
+      padding-left: 30px;
+    }
+    //BlogDetail__avtUserComment
+    .BlogDetail__avtUserComment {
+      max-width: 70px;
+      width: 100%;
+    }
+    .BlogDetail__contentComment {
+      max-width: calc(95% - 70px);
+      padding-left: 32px;
+    }
+  }
