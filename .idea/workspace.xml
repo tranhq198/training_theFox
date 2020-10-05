@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5030e6aa-cac7-4d1f-8155-fe54a8d38c78" name="Default Changelist" comment="" />
+    <list default="true" id="5030e6aa-cac7-4d1f-8155-fe54a8d38c78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,11 +16,11 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/view/user/pages/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="664">
+            <state relative-caret-position="12648">
               <caret line="744" selection-start-line="744" selection-end-line="744" selection-end-column="41" />
             </state>
           </provider>
@@ -36,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/view/user/assets/css/pages/_about.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="213" column="50" lean-forward="true" selection-start-line="213" selection-start-column="50" selection-end-line="213" selection-end-column="50" />
+            <state relative-caret-position="3621">
+              <caret line="213" column="50" selection-start-line="213" selection-start-column="50" selection-end-line="213" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -45,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/view/user/pages/blog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="742">
+            <state relative-caret-position="7293">
               <caret line="429" selection-start-line="429" selection-end-line="429" selection-end-column="41" />
             </state>
           </provider>
@@ -63,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/view/user/pages/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
+            <state relative-caret-position="2873">
               <caret line="169" selection-start-line="169" selection-end-line="169" selection-end-column="40" />
             </state>
           </provider>
@@ -72,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/admin/view/user/pages/error.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="68" column="45" lean-forward="true" selection-start-line="68" selection-start-column="45" selection-end-line="68" selection-end-column="45" />
+            <state relative-caret-position="170">
+              <caret line="40" column="57" lean-forward="true" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -112,6 +114,9 @@
       <find>src</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -134,16 +139,18 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="361" />
-    <option name="y" value="47" />
-    <option name="width" value="1576" />
+    <option name="x" value="556" />
+    <option name="y" value="42" />
+    <option name="width" value="1170" />
     <option name="height" value="949" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,13 +162,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/admin/view/user/assets/css/imgBackground" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -197,17 +203,19 @@
       <option name="presentableId" value="Default" />
       <updated>1601430782466</updated>
       <workItem from="1601430783554" duration="1426000" />
-      <workItem from="1601872633007" duration="7005000" />
+      <workItem from="1601872633007" duration="7456000" />
+      <workItem from="1601887371433" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8431000" />
+    <option name="totallyTimeSpent" value="8890000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="361" y="47" width="1576" height="949" extended-state="0" />
+    <frame x="556" y="42" width="1170" height="949" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35290238" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15765765" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -233,90 +241,25 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pape" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/cau-truc-folder-mo-hinh-mvc-php-1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/cau-truc-folder-mo-hinh-mvc-php-1.png" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Sự tự tin luôn ở trong phong cách Giữ chi tiết thẻ của bạn trong tài khoản an toàn Và tự tin thanh toán với các cửa hàng trên toàn thế giới PayPal có thể giúp bạn Bắt đầu mua sắm.url" />
-    <entry file="file://$PROJECT_DIR$/view/pages/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/style.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/common/functions.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/common/validators.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/pages/error.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/partials/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/pages/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3840">
-          <caret line="745" selection-start-line="745" selection-end-line="745" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/partials/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/view/user/partials/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="58" lean-forward="true" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/view/pages/index.php" />
+    <entry file="file://$PROJECT_DIR$/public/script.js" />
+    <entry file="file://$PROJECT_DIR$/public/style.css" />
+    <entry file="file://$PROJECT_DIR$/public/style.scss" />
+    <entry file="file://$PROJECT_DIR$/model/common/functions.php" />
+    <entry file="file://$PROJECT_DIR$/model/common/validators.php" />
+    <entry file="file://$PROJECT_DIR$/view/pages/error.html" />
+    <entry file="file://$PROJECT_DIR$/view/partials/footer.php" />
+    <entry file="file://$PROJECT_DIR$/view/pages/home.php" />
+    <entry file="file://$PROJECT_DIR$/view/partials/header.php" />
     <entry file="file://$PROJECT_DIR$/admin/view/user/assets/images/search.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/view/user/partials/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/view/user/assets/css/pages/_about.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="213" column="50" lean-forward="true" selection-start-line="213" selection-start-column="50" selection-end-line="213" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/view/user/pages/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
+        <state relative-caret-position="12648">
           <caret line="744" selection-start-line="744" selection-end-line="744" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/view/user/pages/blog.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="742">
-          <caret line="429" selection-start-line="429" selection-end-line="429" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -324,6 +267,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/user/assets/css/pages/_about.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3621">
+          <caret line="213" column="50" selection-start-line="213" selection-start-column="50" selection-end-line="213" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/user/pages/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7293">
+          <caret line="429" selection-start-line="429" selection-end-line="429" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -336,7 +293,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/view/user/pages/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
+        <state relative-caret-position="2873">
           <caret line="169" selection-start-line="169" selection-end-line="169" selection-end-column="40" />
         </state>
       </provider>
@@ -348,10 +305,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/user/partials/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/user/partials/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="58" lean-forward="true" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/admin/view/user/pages/error.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="68" column="45" lean-forward="true" selection-start-line="68" selection-start-column="45" selection-end-line="68" selection-end-column="45" />
+        <state relative-caret-position="170">
+          <caret line="40" column="57" lean-forward="true" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
         </state>
       </provider>
     </entry>
