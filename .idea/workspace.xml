@@ -74,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/admin/view/user/pages/error.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="40" column="57" lean-forward="true" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
+            <state relative-caret-position="85">
+              <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -139,8 +139,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="556" />
-    <option name="y" value="42" />
+    <option name="x" value="860" />
+    <option name="y" value="113" />
     <option name="width" value="1170" />
     <option name="height" value="949" />
   </component>
@@ -157,6 +157,38 @@
             <path>
               <item name="thefox.training" type="b2602c69:ProjectViewProjectNode" />
               <item name="thefox.training" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thefox.training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thefox.training" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thefox.training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thefox.training" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thefox.training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thefox.training" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thefox.training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thefox.training" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thefox.training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thefox.training" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,16 +236,15 @@
       <updated>1601430782466</updated>
       <workItem from="1601430783554" duration="1426000" />
       <workItem from="1601872633007" duration="7456000" />
-      <workItem from="1601887371433" duration="8000" />
+      <workItem from="1601887371433" duration="249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8890000" />
+    <option name="totallyTimeSpent" value="9131000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="556" y="42" width="1170" height="949" extended-state="0" />
-    <editor active="true" />
+    <frame x="860" y="113" width="1170" height="949" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15765765" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -321,8 +352,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/view/user/pages/error.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="40" column="57" lean-forward="true" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
+        <state relative-caret-position="85">
+          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
         </state>
       </provider>
     </entry>
